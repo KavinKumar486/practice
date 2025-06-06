@@ -1,2 +1,3 @@
 hey who's this 
 new commit check 
+staging area check
